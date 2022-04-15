@@ -4,6 +4,7 @@ import java.util.TreeSet;
 
 public class TreeSetStudent {
     public static void main(String[] args) {
+        // нуебходимо было создать класс Student и затем создать TreeSet<Student>. Целью задания было использовать интерфейс Comparable<Student>
         TreeSet<String> student = new TreeSet<>();
 
         student.add("Egorka");
