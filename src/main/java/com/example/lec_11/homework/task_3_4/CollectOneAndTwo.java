@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class CollectOneAndTwo {
     public static void main(String[] args) {
+        // методы выбраны правильно, желательно только проверить все ли ок, а для этого коллекции не должны быть пустыми
         ArrayList collection1 =  new ArrayList();
         ArrayList collection2 = new ArrayList();
 
