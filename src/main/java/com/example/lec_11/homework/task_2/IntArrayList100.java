@@ -12,7 +12,7 @@ public class IntArrayList100 {
         System.out.println(intarraylist);
 
         Iterator<Integer> iterator = intarraylist.iterator();
-        while (((Iterator<?>) iterator).hasNext()) {
+        while (((Iterator<?>) iterator).hasNext()) { // ((Iterator<?>) iterator).hasNext() -> iterator.hasNext() скорее всего будет достаточно
             int nextValue = iterator.next();
             if (nextValue % 2 == 0) {
                 iterator.remove();
