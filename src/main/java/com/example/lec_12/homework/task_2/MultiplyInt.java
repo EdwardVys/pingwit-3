@@ -8,6 +8,7 @@ public class MultiplyInt {
     }
 }
 
+// BinaryOperator уже есть в джава, свой удаляйте
 interface BinaryOperator<T> {
     T apply(T t1, T t2);
 
