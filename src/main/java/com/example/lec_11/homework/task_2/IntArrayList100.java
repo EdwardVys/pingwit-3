@@ -11,6 +11,10 @@ public class IntArrayList100 {
         }
         System.out.println(intarraylist);
 
+        /*
+        еще можно было так
+        intarraylist.removeIf(x -> x % 2 == 0);
+        */
         Iterator<Integer> iterator = intarraylist.iterator();
         while (((Iterator<?>) iterator).hasNext()) { // ((Iterator<?>) iterator).hasNext() -> iterator.hasNext() скорее всего будет достаточно
             int nextValue = iterator.next();
