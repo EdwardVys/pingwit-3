@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_4;
+package com.example.lec_2.homework.task_4;
 
 public class MultiplicationAB {
     public static void main(String[] args) {

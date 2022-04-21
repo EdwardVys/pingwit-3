@@ -1,4 +1,4 @@
-package pingwit.lec_3.classwork.point_1;
+package com.example.lec_3.classwork.point_1;
 
 public class ArrayForEachExample {
     public static void main(String[] arg){

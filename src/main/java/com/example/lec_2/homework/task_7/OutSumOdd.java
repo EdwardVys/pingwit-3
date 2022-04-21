@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_7;
+package com.example.lec_2.homework.task_7;
 
 // +
 public class OutSumOdd {

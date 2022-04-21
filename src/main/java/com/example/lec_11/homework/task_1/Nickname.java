@@ -13,16 +13,14 @@ public class Nickname {
         nickname.add("Щавлик");
         nickname.add("Пончик");
 
-// лишний абзац 
         System.out.print("Вспомни детскую кликуху: ");
-        String yournickname; // yournickname -> yourNickname - новые слова с большой буквы
         Scanner name = new Scanner(System.in);
-        yournickname = name.nextLine(); // String yournickname = name.nextLine(); - в одну строчку лучше в данном ситуации
+        String yourNickname = name.nextLine();
 
-        if (nickname.contains(yournickname)) {
-            System.out.println(" Заходи дружище " + (yournickname));
+        if (nickname.contains(yourNickname)) {
+            System.out.println(" Заходи дружище " + (yourNickname));
         } else {
-            System.out.println(" Вспоминай.... или проваливай!!! " + (yournickname));
+            System.out.println(" Вспоминай.... или проваливай!!! " + (yourNickname));
         }
     }
 }

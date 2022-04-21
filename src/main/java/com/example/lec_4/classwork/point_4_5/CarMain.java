@@ -1,6 +1,6 @@
-package pingwit.lec_4.classwork.point_4_5;
+package com.example.lec_4.classwork.point_4_5;
 
-import pingwit.lec_4.classwork.point_3.Animal;
+import com.example.lec_4.classwork.point_3.Animal;
 
 public class CarMain {
     public static void main(String[] arg) {

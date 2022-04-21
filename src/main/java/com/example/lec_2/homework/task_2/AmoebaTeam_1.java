@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_2;
+package com.example.lec_2.homework.task_2;
 
 // +, но достаточно одного решения
 public class AmoebaTeam_1 {

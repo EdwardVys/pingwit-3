@@ -1,4 +1,4 @@
-package pingwit.lec_4.classwork.point_4_5;
+package com.example.lec_4.classwork.point_4_5;
 
 public class Car {
     //private, package(default),protected, public

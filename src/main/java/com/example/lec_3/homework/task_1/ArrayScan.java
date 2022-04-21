@@ -1,4 +1,4 @@
-package pingwit.lec_3.homework.task_1;
+package com.example.lec_3.homework.task_1;
 
 import java.util.Scanner;
 

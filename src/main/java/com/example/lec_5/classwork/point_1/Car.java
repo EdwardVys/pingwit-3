@@ -1,4 +1,4 @@
-package pingwit.lec_5.classwork.point_1;
+package com.example.lec_5.classwork.point_1;
 
 import java.util.Objects;
 

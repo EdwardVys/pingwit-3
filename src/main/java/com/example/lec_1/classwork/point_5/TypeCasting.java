@@ -1,4 +1,4 @@
-package pingwit.lec_1.classwork.point_5;
+package com.example.lec_1.classwork.point_5;
 
 public class TypeCasting {
     public static void main(String[] arg){

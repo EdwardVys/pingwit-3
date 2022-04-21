@@ -1,6 +1,6 @@
-package pingwit.lec_5.classwork.point_2_3;
+package com.example.lec_5.classwork.point_2_3;
 
-import pingwit.lec_5.classwork.point_1.Car;
+import com.example.lec_5.classwork.point_1.Car;
 
 public class Model3 extends AbstractTesla implements Car,IlonMaskOwnership {
     public Model3(String licenceNumber) {

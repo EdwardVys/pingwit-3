@@ -1,4 +1,4 @@
-package pingwit.lec_1.homework.point_4;
+package com.example.lec_1.homework.point_4;
 
 public class HelloEverybody {
     public static void main(String[] arg){

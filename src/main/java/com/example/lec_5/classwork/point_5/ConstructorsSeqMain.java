@@ -1,4 +1,4 @@
-package pingwit.lec_5.classwork.point_5;
+package com.example.lec_5.classwork.point_5;
 
 public class ConstructorsSeqMain {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package pingwit.lec_3.homework.task_3;
+package com.example.lec_3.homework.task_3;
 
 import java.util.Arrays;
 

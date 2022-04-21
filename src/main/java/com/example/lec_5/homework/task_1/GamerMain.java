@@ -1,4 +1,4 @@
-package pingwit.lec_5.homework.task_1;
+package com.example.lec_5.homework.task_1;
 
 public class GamerMain implements ComputerInterFace {
 

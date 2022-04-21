@@ -1,6 +1,5 @@
-package com.example.les_9.classwork.point_7;
+package com.example.lec_9.classwork.point_7;
 
-import java.io.FileReader;
 import java.io.FileWriter;
 
 public class FwMain {

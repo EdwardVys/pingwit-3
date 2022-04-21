@@ -1,8 +1,6 @@
-package com.example.les_9.classwork.point_7;
+package com.example.lec_9.classwork.point_7;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 
 public class FrMain {
     public static void main(String[] args) {

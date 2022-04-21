@@ -1,6 +1,5 @@
-package com.example.les_9.classwork.point_4;
+package com.example.lec_9.classwork.point_4;
 
-import java.awt.image.ImagingOpException;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package pingwit.lec_4.homework.task_1_4;
+package com.example.lec_4.homework.task_1_4;
 
 import java.util.Objects;
 
@@ -50,10 +50,6 @@ public class Neighbor {
 
     protected String showNameInf() {
         return name + " hi is " + age + " years old ";
-    }
-
-    public Neighbor() {
-        this ("Oleg", 29);
     }
 
     public String getName() {

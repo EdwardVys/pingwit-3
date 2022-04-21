@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_2;
+package com.example.lec_2.homework.task_2;
 
 public class AmoebaTeam {
     public static void main(String[] arg) {

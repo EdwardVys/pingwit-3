@@ -1,6 +1,4 @@
-package com.example.lec_6.classwork.point_6;
-
-import java.net.SocketOption;
+package com.example.lec_6.point_6;
 
 public class Fibonacci {
     public static void main(String[] args) {

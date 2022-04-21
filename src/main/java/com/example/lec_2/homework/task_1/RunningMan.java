@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_1;
+package com.example.lec_2.homework.task_1;
 
 public class RunningMan {
     public static void main(String[] arg) {

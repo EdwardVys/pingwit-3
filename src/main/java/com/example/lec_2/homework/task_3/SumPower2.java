@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_3;
+package com.example.lec_2.homework.task_3;
 
 public class SumPower2 {
     public static void main(String[] arg) {

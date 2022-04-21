@@ -1,4 +1,4 @@
-package com.example.lec_6.classwork.point_2;
+package com.example.lec_6.point_2;
 
 public class RecursionMain {
     public static void main(String[] args) {

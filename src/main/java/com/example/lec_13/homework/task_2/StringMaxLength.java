@@ -20,11 +20,6 @@ public class StringMaxLength {
 
         Optional<String> maxName = scientificDevice.stream()
                 .max(Comparator.comparingInt(String::length));
-       
-        System.out.println("Longest name " + maxName); 
-        /* maxName - поскольку это Optional, то лучше так
         maxName.ifPresent(item -> System.out.println("Longest name " + item));
-        */
     }
-
 }

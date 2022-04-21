@@ -1,4 +1,4 @@
-package com.example.lec_6.classwork.point_3;
+package com.example.lec_6.point_3;
 
 public class MyReflection {
     private static final String CONST = "myConst";

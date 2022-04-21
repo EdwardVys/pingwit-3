@@ -1,6 +1,5 @@
-package com.example.les_9.classwork.point_8;
+package com.example.lec_9.classwork.point_8;
 
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.FileReader;
 

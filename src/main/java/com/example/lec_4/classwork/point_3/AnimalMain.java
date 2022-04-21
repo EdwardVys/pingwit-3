@@ -1,4 +1,4 @@
-package pingwit.lec_4.classwork.point_3;
+package com.example.lec_4.classwork.point_3;
 
 public class AnimalMain {
     public static void main(String[] arg){

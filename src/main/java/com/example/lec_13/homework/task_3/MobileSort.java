@@ -22,18 +22,18 @@ public class MobileSort {
                 .collect(Collectors.toSet());
         System.out.println(producers);
 
-        Set<String> newSet = Set.of("Apple", "Samsung", "Xiaomi"); // newSet -> uniqueProducers, не стоит забивать на название переменных
-        /*
-        Чуток не доделали. Решение
-        List<String> filteredProducers = mobile.stream()
+       Set<String> uniqueProducers = Set.of("Apple", "Samsung", "Xiaomi");
+    //   newSet -> uniqueProducers; // не стоит забивать на название переменных
+
+    //    Чуток не доделали. Решение
+     /*   List<String> filteredProducers = mobile.stream()
                 .map(Mobile::producer)
                 .filter(producer -> uniqueProducers.contains(producer))
                 .collect(Collectors.toList());
        
        System.out.println(producers);
-        */
-
-        System.out.println(newSet);
+*/
+        System.out.println(uniqueProducers);
 
     }
 }

@@ -1,8 +1,7 @@
-package com.example.les_9.classwork.point_5;
+package com.example.lec_9.classwork.point_5;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Arrays;
 

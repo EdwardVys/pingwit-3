@@ -1,4 +1,4 @@
-package pingwit.lec_1.classwork.point_4;
+package com.example.lec_1.classwork.point_4;
 
 public class JavaTypes {
     public static void main(String[] arg) {

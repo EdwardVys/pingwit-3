@@ -1,4 +1,4 @@
-package pingwit.lec_4.classwork.point_1;
+package com.example.lec_4.classwork.point_1;
 
 public class Student {
     Integer id;

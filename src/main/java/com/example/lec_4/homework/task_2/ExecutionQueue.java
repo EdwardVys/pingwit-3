@@ -1,4 +1,4 @@
-package pingwit.lec_4.homework.task_2;
+package com.example.lec_4.homework.task_2;
 
 public class ExecutionQueue {
     private static String msg;

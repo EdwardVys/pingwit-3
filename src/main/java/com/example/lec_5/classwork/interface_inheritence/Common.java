@@ -1,4 +1,4 @@
-package pingwit.lec_5.classwork.interface_inheritence;
+package com.example.lec_5.classwork.interface_inheritence;
 
 public interface Common extends AlwaysSleep {
 }

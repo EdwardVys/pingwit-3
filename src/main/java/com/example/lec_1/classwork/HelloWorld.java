@@ -1,4 +1,4 @@
-package pingwit.lec_1.classwork;
+package com.example.lec_1.classwork;
 
 public class HelloWorld {
     public static void main(String[] arg){

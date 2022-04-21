@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_5;
+package com.example.lec_2.homework.task_5;
 
 public class InchTosm {
     public static void main(String[] args) {

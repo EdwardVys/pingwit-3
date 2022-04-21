@@ -1,4 +1,4 @@
-package pingwit.lec_1.classwork.point_6;
+package com.example.lec_1.classwork.point_6;
 
 public class JavaOperators {
     public static void main(String[] arg){

@@ -1,4 +1,4 @@
-package pingwit.lec_4.homework.task_1_4;
+package com.example.lec_4.homework.task_1_4;
 
 public class NeighborMain {
     public static void main(String[] arg) {

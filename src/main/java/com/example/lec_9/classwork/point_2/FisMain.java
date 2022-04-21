@@ -1,4 +1,4 @@
-package com.example.les_9.classwork.point_2;
+package com.example.lec_9.classwork.point_2;
 
 import java.io.FileInputStream;
 import java.io.IOException;

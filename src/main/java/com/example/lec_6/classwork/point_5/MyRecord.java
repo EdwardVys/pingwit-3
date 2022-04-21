@@ -1,4 +1,4 @@
-package com.example.lec_6.classwork.point_5;
+package com.example.lec_6.point_5;
 
 import java.util.Objects;
 

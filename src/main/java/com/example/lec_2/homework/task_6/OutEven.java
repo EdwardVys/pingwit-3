@@ -1,4 +1,4 @@
-package pingwit.lec_2.homework.task_6;
+package com.example.lec_2.homework.task_6;
 
 // +
 public class OutEven {

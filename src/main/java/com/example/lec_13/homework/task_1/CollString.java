@@ -16,7 +16,8 @@ public class CollString {
         System.out.println("Full set " + scientificDevice);
 
         List<String> longName = scientificDevice.stream()
-                .filter(wordLength -> wordLength.length() >= 5).toList(); // .toList() - на новую строку
+                .filter(wordLength -> wordLength.length() >= 5)
+                .toList();
        
         System.out.println("Sorted set " + longName);
 
